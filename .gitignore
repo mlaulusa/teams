@@ -1,0 +1,14 @@
+# Add common files for golang
+# These are commonly ignored files for a golang project
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+.idea/
+.vscode/
+*/.DS_Store
+*/.vscode/
+*/vendor/
+*/node_modules/
+.env
